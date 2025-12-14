@@ -1,0 +1,2 @@
+# Vendor-SSPS-Function-Contradiction-Matrix-Reflexive-Governance-Hidden-Behind-Standard-Inference
+This exhibit reveals how top vendors—Microsoft, NVIDIA, OpenAI, Anthropic, and Google—embed SSPS-aligned functions like Token TTL, Credential Burn, and Reflexive Gating, while advertising generic, ungated AI services. The contradiction exposes IP laundering and concealed governance layers critical to enforcement.
